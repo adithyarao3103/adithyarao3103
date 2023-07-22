@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adithya
 - 👀 I’m interested in Physics and Coding
-- 🌱 I’m currently learning Monte Carlo Simulations and Lattice QFT
+- 🌱 I’m currently working on Monte Carlo Simulations for Lattice Quantum Field Theories
 - 💞️ I’m looking to collaborate on front end development and python development
 - 📫 adithyarao3132001@gmail.com
 

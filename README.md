@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Adithya
-- 👀 I’m interested in Physics and Coding
-- 🌱 I’m currently working on Monte Carlo Simulations for Lattice Quantum Field Theories
-- 💞️ I’m looking to collaborate on front end development and python development
-- 📫 adithyarao3132001@gmail.com
-
 <!---
 adithyarao3103/adithyarao3103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -11,8 +5,8 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 - 👋 Hi, I’m Adithya
 - 👀 I am a physics student who is also amazed by the capabilities of a man-made machine that knows nothing but 0s and 1s.
-- 🌱 I’m currently learning Monte Carlo Simulations and Lattice QFT
-
+- 🌱 I’m currently working on Monte Carlo Simulations for Lattice Quantum Field Theories
+- 💞️ I’m looking to collaborate on Lattice Simulations and python development
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rao__adithya) 
 

@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://instagram.com/rao__adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rao__adithya" height="20" width="30" /></a>
 </p> 
 
-## Tech Stack:
+<!-- ## Tech Stack:
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 ##  Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?)
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=adithyarao3103&icon=4&color=1)](https://visitcount.itsvg.in)
 

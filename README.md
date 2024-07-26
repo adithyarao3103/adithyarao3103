@@ -7,10 +7,14 @@ You can click the Preview link to take a look at your changes.
 - My field of research so far has been theoretical and computational studies of quantum field theories.
 - I’m currently learning **ROOT, Deep Learning, and Quantum Simulations**
 
+---
+
 ![](https://imgs.xkcd.com/comics/actual_progress.png)
 
 > Slowly progressing from 'How do spinor fields interact with the gauge fields?' to 'What the heck is a bloody spinor?'
-  
+
+---
+
 ## Socials:
 <p align="left">
 <a href="https://twitter.com/raoadithya31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raoadithya31" height="20" width="30" /></a>

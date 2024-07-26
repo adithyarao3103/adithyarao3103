@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 - I’m currently learning **ROOT, Deep Learning, and Quantum Simulations**
 
 ![](https://imgs.xkcd.com/comics/actual_progress.png)
+
 Progress!!!
   
 ## Socials:

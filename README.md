@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://imgs.xkcd.com/comics/actual_progress.png)
 
-Progress!!!
+> Slowly progressing from 'How do protons behave in relativistic collisions?' to 'What the heck are protons even doing when they're just sitting there?'
   
 ## Socials:
 <p align="left">

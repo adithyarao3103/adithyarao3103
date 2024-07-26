@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 # Hi, I’m Adithya
 - I am a physicist with an interest in theoretical and computational physics
 - My field of research so far has been theoretical and computational studies of quantum field theories.
-- I’m currently learning **ROOT, Deep Learning and Quantum Simulations**
+- I’m currently learning **ROOT, Deep Learning, and Quantum Simulations**
 
-![](https://imgs.xkcd.com/comics/physicists.png)
+![]([https://imgs.xkcd.com/comics/physicists.png](https://imgs.xkcd.com/comics/a_bunch_of_rocks.png)
   
 ## Socials:
 <p align="left">

@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://imgs.xkcd.com/comics/actual_progress.png)
 
-> Slowly progressing from 'How do protons behave in relativistic collisions?' to 'What the heck are protons even doing when they're just sitting there?'
+> Slowly progressing from 'How do spinor fields interact with the gauge fields?' to 'What the heck is a bloody spinor?'
   
 ## Socials:
 <p align="left">

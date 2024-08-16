@@ -16,12 +16,12 @@ You can click the Preview link to take a look at your changes.
 ---
 ## Showcase
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=BFSS-CPPCODE&theme=tokyonight&border_color=30363d&bg_color=0d1117)](https://github.com/adithyarao3103/BFSS-CPPCODE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=Lattice-Simulation-SU-2&theme=tokyonight&border_color=30363d&bg_color=0d1117)](https://github.com/adithyarao3103/Lattice-Simulation-SU-2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=PINN&theme=tokyonight&border_color=30363d&bg_color=0d1117)](https://github.com/adithyarao3103/PINN)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=NevisLab-ROOT&theme=tokyonight&border_color=30363d&bg_color=0d1117)](https://github.com/adithyarao3103/NevisLab-ROOT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=Computational-Practical&theme=tokyonight&border_color=30363d&bg_color=0d1117)](https://github.com/adithyarao3103/Computational-Practical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=adithyarao3103.github.io&theme=tokyonight&border_color=30363d&bg_color=0d1117)](https://github.com/adithyarao3103/adithyarao3103.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=BFSS-CPPCODE&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/BFSS-CPPCODE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=Lattice-Simulation-SU-2&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/Lattice-Simulation-SU-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=PINN&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/PINN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=NevisLab-ROOT&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/NevisLab-ROOT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=Computational-Practical&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/Computational-Practical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=adithyarao3103.github.io&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/adithyarao3103.github.io)
 
 
 

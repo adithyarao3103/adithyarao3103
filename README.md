@@ -14,6 +14,18 @@ You can click the Preview link to take a look at your changes.
 > Slowly progressing from 'How do spinor fields interact with the gauge fields?' to 'What the heck is a bloody spinor?'
 
 ---
+## Showcase
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=BFSS-CPPCODE&theme=tokyonight)](https://github.com/adithyarao3103/BFSS-CPPCODE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=Lattice-Simulation-SU-2&theme=tokyonight)](https://github.com/adithyarao3103/Lattice-Simulation-SU-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=PINN&theme=tokyonight)](https://github.com/adithyarao3103/PINN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=NevisLab-ROOT&theme=tokyonight)](https://github.com/adithyarao3103/NevisLab-ROOT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=Computational-Practical&theme=tokyonight)](https://github.com/adithyarao3103/Computational-Practical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=adithyarao3103.github.io&theme=tokyonight)](https://github.com/adithyarao3103/adithyarao3103.github.io)
+
+
+
+---
 
 ## Socials:
 <p align="left">
@@ -32,12 +44,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> </a> 
-</p>
+</p> -->
 
-##  Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?)
--->
 ---
-[![](https://visitcount.itsvg.in/api?id=adithyarao3103&icon=4&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=adithyarao3103&icon=4&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

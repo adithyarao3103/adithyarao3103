@@ -28,10 +28,10 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## Top Languages
+<!-- ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyarao3103&size_weight=0.25&count_weight=0.75&langs_count=10&layout=donut-vertical&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)
----
+--- -->
 <!-- 
 ## Activity
 

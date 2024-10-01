@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=Spanning-Trees-on-Lattice&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/Spanning-Trees-on-Lattice)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=Computational-Practical&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/Computational-Practical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=Thesis-Template-SVNIT&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/Thesis-Template-SVNIT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=adithyarao3103.github.io&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/adithyarao3103.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=Presentation-Beamer-Template&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/Presentation-Beamer-Template )
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhysicsClubSVNIT&repo=PhysicsClubSVNIT.github.io&show_owner=True&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/PhysicsClubSVNIT/PhysicsClubSVNIT.github.io)
 
 ---

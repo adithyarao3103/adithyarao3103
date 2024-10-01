@@ -7,10 +7,11 @@ You can click the Preview link to take a look at your changes.
 - I am a physicist with an interest in theoretical and computational physics
 - My field of research so far has been theoretical and computational studies of quantum field theories.
 - I’m currently learning **ROOT, Deep Learning, and Simulations for Quantum Systems**
+- Take a look at my profile at https://adithyarao3103.github.io/
 
 ---
 
-![](https://imgs.xkcd.com/comics/actual_progress.png)
+![https://imgs.xkcd.com/comics/actual_progress.png](https://imgs.xkcd.com/comics/actual_progress.png)
 
 > Slowly progressing from 'How do spinor fields interact with the gauge fields?' to 'What the heck is a bloody spinor?'
 
@@ -30,9 +31,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<!-- ## Top Languages
+<!-- ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyarao3103&size_weight=0.25&count_weight=0.75&langs_count=10&layout=donut-vertical&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyarao3103&size_weight=0.25&count_weight=0.75&langs_count=6&layout=donut&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)
 --- -->
 <!-- 
 ## Activity

@@ -2,12 +2,14 @@
 adithyarao3103/adithyarao3103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi, I’m Adithya
+<!-- # Hi, I’m Adithya
 
 - I am a physicist with an interest in theoretical and computational physics
 - My field of research so far has been theoretical and computational studies of quantum field theories.
 - I’m currently learning **Julia, ROOT, Deep Learning, and Quantum Computing**
-- Take a look at my profile at https://adithyarao3103.github.io/
+- Take a look at my profile at https://adithyarao3103.github.io/ -->
+
+![title](github_profile.svg)
 
 ---
 

@@ -48,14 +48,14 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Snake animation](https://raw.githubusercontent.com/adithyarao3103/adithyarao3103/output/github-contribution-grid-snake-dark.svg) -->
 
 <!-- --- -->
-
+<!-- 
 
 ## Socials
 <p align="left">
 <a href="https://twitter.com/raoadithya31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raoadithya31" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/adithya-a-rao-3103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya-a-rao-3103" height="20" width="30" /></a>
 <a href="https://instagram.com/rao__adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rao__adithya" height="20" width="30" /></a>
-</p> 
+</p>  -->
 
 <!-- ## Tech Stack:
 <p align="left"> 

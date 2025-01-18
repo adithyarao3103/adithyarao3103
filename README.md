@@ -47,6 +47,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Snake animation](https://raw.githubusercontent.com/adithyarao3103/adithyarao3103/output/github-contribution-grid-snake-dark.svg)
 
+---
+
 
 ## Socials
 <p align="left">

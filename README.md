@@ -45,6 +45,9 @@ You can click the Preview link to take a look at your changes.
 
 --- -->
 
+![Snake animation](https://github.com/adithyarao3103/adithyarao3103/blob/output/github-contribution-grid-snake.svg)
+
+
 ## Socials
 <p align="left">
 <a href="https://twitter.com/raoadithya31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raoadithya31" height="20" width="30" /></a>

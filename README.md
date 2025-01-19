@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - Take a look at my profile at https://adithyarao3103.github.io/ -->
 
 ![alt text](image.png)
-<sup><sup>[Good programmers steal stuff](https://github.com/Andrew6rant)</sup></sup>
+<sup>[Good programmers steal stuff](https://github.com/Andrew6rant)</sup>
 
 ---
 ## My idea of progress -

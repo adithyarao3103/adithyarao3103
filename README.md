@@ -77,3 +77,6 @@ You can click the Preview link to take a look at your changes.
 <!-- [![](https://visitcount.itsvg.in/api?id=adithyarao3103&icon=4&color=12)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+[![viscount](https://visitor-counter-adithyarao3103.vercel.app/increment?name=gh-readme&theme=retro&text=Visitors%20since%2019-01-2025&theme=default&tb=0d1117&cb=4493f8)](https://visitor-counter-adithyarao3103.vercel.app)

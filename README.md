@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ![alt text](image.png)
 <sup><sup>[Good programmers steal stuff](https://github.com/Andrew6rant)</sup></sup>
 ---
-## Me Right Now -
+## Summing up my progress so far -
 ![https://imgs.xkcd.com/comics/actual_progress.png](https://imgs.xkcd.com/comics/actual_progress.png)
 
 > Slowly progressing from 'How do spinor fields interact with the gauge fields?' to 'What the heck is a spinor?'

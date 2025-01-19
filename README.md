@@ -2,23 +2,22 @@
 adithyarao3103/adithyarao3103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi, I’m Adithya
+<!-- # Hi, I’m Adithya
 
 - I am a physicist with an interest in theoretical and computational physics
 - My field of research so far has been theoretical and computational studies of quantum field theories.
 - I’m currently learning **Julia, ROOT, Deep Learning, and Quantum Computing**
-- Take a look at my profile at https://adithyarao3103.github.io/
+- Take a look at my profile at https://adithyarao3103.github.io/ -->
 
-<!-- ![title](github_profile.svg) -->
-
+![alt text](image.png)
 ---
-
+## Me Right Now -
 ![https://imgs.xkcd.com/comics/actual_progress.png](https://imgs.xkcd.com/comics/actual_progress.png)
 
-> Slowly progressing from 'How do spinor fields interact with the gauge fields?' to 'What the heck is a bloody spinor?'
+> Slowly progressing from 'How do spinor fields interact with the gauge fields?' to 'What the heck is a spinor?'
 
 ---
-## Showcase
+## Showcase - 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=BFSS-CPPCODE&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/BFSS-CPPCODE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=Lattice-Simulation-SU-2&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/Lattice-Simulation-SU-2)

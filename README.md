@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ![alt text](image.png)
 <sup><sup>[Good programmers steal stuff](https://github.com/Andrew6rant)</sup></sup>
+
 ---
 ## My idea of progress -
 [![comic](https://imgs.xkcd.com/comics/actual_progress.png)](https://imgs.xkcd.com/comics/actual_progress.png)

@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 - Take a look at my profile at https://adithyarao3103.github.io/ -->
 
 ![alt text](image.png)
+<sup><sub>[Good programmers steal stuff](https://github.com/Andrew6rant)</sub></sup>
 ---
 ## Me Right Now -
 ![https://imgs.xkcd.com/comics/actual_progress.png](https://imgs.xkcd.com/comics/actual_progress.png)

@@ -83,4 +83,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[![viscount](https://visitor-counter-adithyarao3103.vercel.app/increment?name=gh-readme&theme=retro&text=Visitors%20since%2019-01-2025&theme=default&tb=0d1117&cb=4493f8)](https://visitor-counter-adithyarao3103.vercel.app)
+![contributions](/profile-3d-contrib/profile-night-view.svg)

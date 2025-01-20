@@ -14,15 +14,17 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## My philosophy of progress -
+## $\color{blue}{\text{My philosophy of progress-}}$
 
 [![comic](https://imgs.xkcd.com/comics/actual_progress.png)](https://imgs.xkcd.com/comics/actual_progress.png)
 
-> Slowly progressing from 'How do spinor fields interact with the gauge fields?' to 'What the heck is a spinor?'
+$\color{gray}{\text{Slowly progressing from}}$ $\color{gray}{
+\text{'How do spinor fields interact with the gauge fields?' \\
+to}}$ $\color{gray}{\text{'What the heck is a spinor?'}}$
 
 ---
 
-## Showcase -
+## $\color{blue}{\text{Showcase-}}$
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=BFSS-CPPCODE&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/BFSS-CPPCODE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=Lattice-Simulation-SU-2&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/Lattice-Simulation-SU-2)
@@ -82,5 +84,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
+
+## $\color{blue}{\text{Stats-}}$
 
 ![contributions](/profile-3d-contrib/profile-night-green.svg)

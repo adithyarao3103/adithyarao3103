@@ -83,4 +83,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-![contributions](/profile-3d-contrib/profile-night-view.svg)
+![contributions](/profile-3d-contrib/profile-night-green.svg)

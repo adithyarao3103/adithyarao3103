@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## $\color{blue}{\text{My philosophy of progress-}}$
+## $\color{#fadfd5}{\text{My philosophy of progress-}}$
 
-[![comic](https://imgs.xkcd.com/comics/actual_progress.png)](https://imgs.xkcd.com/comics/actual_progress.png)
+[![comic](comic.png)](https://imgs.xkcd.com/comics/actual_progress.png)
 
 $\color{gray}{\text{Slowly progressing from}}$ $\color{gray}{
 \text{'How do spinor fields interact with the gauge fields?' \\
@@ -24,7 +24,7 @@ to}}$ $\color{gray}{\text{'What the heck is a spinor?'}}$
 
 ---
 
-## $\color{blue}{\text{Showcase-}}$
+## $\color{#fadfd5}{\text{Showcase-}}$
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=BFSS-CPPCODE&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/BFSS-CPPCODE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=Lattice-Simulation-SU-2&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/Lattice-Simulation-SU-2)
@@ -85,6 +85,6 @@ to}}$ $\color{gray}{\text{'What the heck is a spinor?'}}$
 
 ---
 
-## $\color{blue}{\text{Stats-}}$
+## $\color{#fadfd5}{\text{Stats-}}$
 
 ![contributions](/profile-3d-contrib/profile-night-green.svg)

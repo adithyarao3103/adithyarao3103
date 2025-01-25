@@ -83,8 +83,8 @@ to}}$ $\color{gray}{\text{'What the heck is a spinor?'}}$
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
+<!-- ---
 
 ## $\color{#fadfd5}{\text{Stats-}}$
 
-![contributions](/profile-3d-contrib/profile-night-green.svg)
+![contributions](/profile-3d-contrib/profile-night-green.svg) -->

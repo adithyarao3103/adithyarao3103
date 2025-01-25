@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ## $\color{#fadfd5}{\text{My philosophy of progress-}}$
 
-[![comic](comic.png)](https://imgs.xkcd.com/comics/actual_progress.png)
+[![comic](https://imgs.xkcd.com/comics/actual_progress.png)](https://imgs.xkcd.com/comics/actual_progress.png)
 
 $\color{gray}{\text{Slowly progressing from}}$ $\color{gray}{
 \text{'How do spinor fields interact with the gauge fields?' \\

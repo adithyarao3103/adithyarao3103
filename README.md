@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## $\color{#fadfd5}{\text{My philosophy of progress-}}$
+## My philosophy of progress-
 
 [![comic](https://imgs.xkcd.com/comics/actual_progress.png)](https://imgs.xkcd.com/comics/actual_progress.png)
 

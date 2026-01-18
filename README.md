@@ -14,15 +14,21 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## My philosophy of progress-
+A theoretical physicist, who is also trying to teach computers to solve physics problems, mostly so I don't have to anymore. Progress is slow, but I'm optimistic. <br>
 
-[![comic](https://imgs.xkcd.com/comics/actual_progress.png)](https://imgs.xkcd.com/comics/actual_progress.png)
+If you think being a theoretical physicist is cool, this xkcd is for you 
 
-$\color{gray}{\text{Slowly progressing from}}$ $\color{gray}{
+[![comic](https://imgs.xkcd.com/comics/math_work.png)](https://imgs.xkcd.com/comics/math_work.png)
+
+If you don't think being a theoretical physicist is cool, then I offer my sincere condolences.
+
+<!-- [![comic](https://imgs.xkcd.com/comics/actual_progress.png)](https://imgs.xkcd.com/comics/actual_progress.png) -->
+
+<!-- $\color{gray}{\text{Slowly progressing from}}$ $\color{gray}{
 \text{'How do spinor fields interact with the gauge fields?' \\
 to}}$ $\color{gray}{\text{'What the heck is a spinor?'}}$
 
----
+--- -->
 <!-- 
 ## $\color{#fadfd5}{\text{Showcase-}}$
 

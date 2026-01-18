@@ -23,7 +23,7 @@ $\color{gray}{\text{Slowly progressing from}}$ $\color{gray}{
 to}}$ $\color{gray}{\text{'What the heck is a spinor?'}}$
 
 ---
-
+<!-- 
 ## $\color{#fadfd5}{\text{Showcase-}}$
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=BFSS-CPPCODE&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/BFSS-CPPCODE)
@@ -37,7 +37,7 @@ to}}$ $\color{gray}{\text{'What the heck is a spinor?'}}$
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=Presentation-Beamer-Template&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/Presentation-Beamer-Template )
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhysicsClubSVNIT&repo=PhysicsClubSVNIT.github.io&show_owner=True&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/PhysicsClubSVNIT/PhysicsClubSVNIT.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=adithyarao3103.github.io&show_owner=False&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/adithyarao3103.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=visitor-counter&show_owner=False&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/visitor-counter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyarao3103&repo=visitor-counter&show_owner=False&theme=transparent&border_color=30363d&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0)](https://github.com/adithyarao3103/visitor-counter) -->
 
 <!-- --- -->
 
